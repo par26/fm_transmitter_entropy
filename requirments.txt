@@ -1,0 +1,6 @@
+rtlsdr
+numpy
+matplotlib
+scipy
+sounddevice
+aiofiles
